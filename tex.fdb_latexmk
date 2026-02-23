@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex tex"] 1771768819.56561 "tex.aux" "tex.bbl" "tex" 1771859495.82483 0
+["bibtex tex"] 1771859669.70017 "tex.aux" "tex.bbl" "tex" 1771860096.69682 0
   "./references.bib" 1771762090.14667 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "tex.aux" 1771859495.61887 1136 eeefb31830a779c80aec305b1dfc34f6 "pdflatex"
+  "tex.aux" 1771860096.49716 1251 3b5778e4f676d20f156870e1ce9dc7d4 "pdflatex"
   (generated)
   "tex.bbl"
   "tex.blg"
   (rewritten before read)
-["pdflatex"] 1771859495.20828 "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" "tex.pdf" "tex" 1771859495.82494 0
+["pdflatex"] 1771860096.0882 "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" "tex.pdf" "tex" 1771860096.69692 0
   "/etc/texmf/web2c/texmf.cnf" 1768114276.37056 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" 1771859495.23657 5737 3f2caa18fb17eba95189099657f15fc2 ""
+  "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" 1771860096.10428 6159 a108c3483d593dd3aafd8942ba01adcc ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchb7t.tfm" 1136768653 2732 006d846b4d54f9b40899c7c3eecd771a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm" 1136768653 3584 13049b61b922a28b158a38aeff75ee9b ""
@@ -189,10 +189,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1771586392.43007 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1771586527 8215352 8e18738943cb0c749c1faf06d6ffabb4 ""
-  "tex.aux" 1771859495.61887 1136 eeefb31830a779c80aec305b1dfc34f6 "pdflatex"
-  "tex.bbl" 1771768819.6344 49 0eba253fc001332e731e8aba3f23127b "bibtex tex"
-  "tex.out" 1771859495.61887 914 39a2352f4d104aa7578b2451bf8c944a "pdflatex"
-  "tex.tex" 1771859495.23657 5737 3f2caa18fb17eba95189099657f15fc2 ""
+  "tex.aux" 1771860096.49716 1251 3b5778e4f676d20f156870e1ce9dc7d4 "pdflatex"
+  "tex.bbl" 1771859669.76445 49 0eba253fc001332e731e8aba3f23127b "bibtex tex"
+  "tex.out" 1771860096.49716 1011 2e2a83c32c97f6af179428f1038613a9 "pdflatex"
+  "tex.tex" 1771860096.10428 6159 a108c3483d593dd3aafd8942ba01adcc ""
   (generated)
   "tex.aux"
   "tex.log"
