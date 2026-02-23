@@ -1,17 +1,18 @@
 # Fdb version 4
-["bibtex tex"] 1771859669.70017 "tex.aux" "tex.bbl" "tex" 1771860096.69682 0
+["bibtex tex"] 1771861640.95883 "tex.aux" "tex.bbl" "tex" 1771861644.84325 0
   "./references.bib" 1771762090.14667 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "tex.aux" 1771860096.49716 1251 3b5778e4f676d20f156870e1ce9dc7d4 "pdflatex"
+  "tex.aux" 1771861644.63655 2017 33e54d76c737fa098bf256fda524c0eb "pdflatex"
   (generated)
   "tex.bbl"
   "tex.blg"
   (rewritten before read)
-["pdflatex"] 1771860096.0882 "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" "tex.pdf" "tex" 1771860096.69692 0
+["pdflatex"] 1771861644.22574 "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" "tex.pdf" "tex" 1771861644.84336 0
   "/etc/texmf/web2c/texmf.cnf" 1768114276.37056 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" 1771860096.10428 6159 a108c3483d593dd3aafd8942ba01adcc ""
+  "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" 1771861644.24351 7782 72f90645ef0718acd37742feac77b401 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchb7t.tfm" 1136768653 2732 006d846b4d54f9b40899c7c3eecd771a ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm" 1136768653 3584 13049b61b922a28b158a38aeff75ee9b ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm" 1136768653 3584 ad49a18d8515beef6d92d4d3f197d0fd ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc1200.tfm" 1136768653 3072 1e3dcc56ea731d0f3645bbefe8c8608c ""
@@ -177,6 +178,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xurl/xurl.sty" 1641763214 4675 e4b8c405820368c2dfb03526e16d725a ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1636152094 2971 def0b6c1f0b107b3b936def894055589 ""
+  "/usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb" 1771586378.12131 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb" 1771586378.12231 135942 859a90cad7494a1e79c94baf546d7de5 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb" 1771586378.12331 139826 9213617a7cb78635fc326b859c0b2273 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfcc1200.pfb" 1771586378.13731 108594 1a08a22405bc37650b977f219cc3597d ""
@@ -189,10 +191,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1771586392.43007 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1771586527 8215352 8e18738943cb0c749c1faf06d6ffabb4 ""
-  "tex.aux" 1771860096.49716 1251 3b5778e4f676d20f156870e1ce9dc7d4 "pdflatex"
-  "tex.bbl" 1771859669.76445 49 0eba253fc001332e731e8aba3f23127b "bibtex tex"
-  "tex.out" 1771860096.49716 1011 2e2a83c32c97f6af179428f1038613a9 "pdflatex"
-  "tex.tex" 1771860096.10428 6159 a108c3483d593dd3aafd8942ba01adcc ""
+  "tex.aux" 1771861644.63655 2017 33e54d76c737fa098bf256fda524c0eb "pdflatex"
+  "tex.bbl" 1771861641.02768 49 0eba253fc001332e731e8aba3f23127b "bibtex tex"
+  "tex.out" 1771861644.63655 1833 9b0e72d9b37edced537ecc76af8c1d39 "pdflatex"
+  "tex.tex" 1771861644.24351 7782 72f90645ef0718acd37742feac77b401 ""
   (generated)
   "tex.aux"
   "tex.log"
