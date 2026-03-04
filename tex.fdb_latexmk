@@ -1,20 +1,20 @@
 # Fdb version 4
-["bibtex tex"] 1772642769.47712 "tex.aux" "tex.bbl" "tex" 1772644314.99204 0
+["bibtex tex"] 1772642769.47712 "tex.aux" "tex.bbl" "tex" 1772644429.09359 0
   "./references.bib" 1771762090.14667 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "tex.aux" 1772644314.26422 2630 e38439bd0118ffc5dd75a20cd3a0d409 "xelatex"
+  "tex.aux" 1772644428.36067 2630 e38439bd0118ffc5dd75a20cd3a0d409 "xelatex"
   (generated)
   "tex.bbl"
   "tex.blg"
   (rewritten before read)
-["xdvipdfmx"] 1772644314.65408 "tex.xdv" "tex.pdf" "tex" 1772644314.99463 0
-  "tex.xdv" 1772644314.26643 17104 8b8b9b84d306c12cc23c511ae2db9158 "xelatex"
+["xdvipdfmx"] 1772644428.75034 "tex.xdv" "tex.pdf" "tex" 1772644429.09619 0
+  "tex.xdv" 1772644428.36167 17104 7199b9c95e8780813efc1437740ffa9d "xelatex"
   (generated)
   "tex.pdf"
   (rewritten before read)
-["xelatex"] 1772644313.27897 "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" "tex.xdv" "tex" 1772644314.99218 0
+["xelatex"] 1772644427.38311 "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" "tex.xdv" "tex" 1772644429.09373 0
   "/etc/texmf/web2c/texmf.cnf" 1768114276.37056 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" 1772644313.22126 9894 78a442ccbbac3746adbd4ddb8744f3e1 ""
+  "/home/jung/Documents/Homework/M4/Social/Paper/tex.tex" 1772644427.16171 9894 2ac29f37a2e3b4eace9e7e154c508613 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchb7t.tfm" 1136768653 2732 006d846b4d54f9b40899c7c3eecd771a ""
@@ -175,10 +175,10 @@
   "/usr/share/texmf/tex/latex/lm/t1lmr.fd" 1616454256 1867 996fe743d88a01aca041ed22cc10e1bb ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1771586535 10845179 6bffe1708248b3e1e685f89e29d7fd33 ""
-  "tex.aux" 1772644314.26422 2630 e38439bd0118ffc5dd75a20cd3a0d409 "xelatex"
+  "tex.aux" 1772644428.36067 2630 e38439bd0118ffc5dd75a20cd3a0d409 "xelatex"
   "tex.bbl" 1772642769.63147 49 0eba253fc001332e731e8aba3f23127b "bibtex tex"
-  "tex.out" 1772644314.26522 2752 884b721eae78401d59b748119d15ef0b "xelatex"
-  "tex.tex" 1772644313.22126 9894 78a442ccbbac3746adbd4ddb8744f3e1 ""
+  "tex.out" 1772644428.36167 2752 884b721eae78401d59b748119d15ef0b "xelatex"
+  "tex.tex" 1772644427.16171 9894 2ac29f37a2e3b4eace9e7e154c508613 ""
   (generated)
   "tex.aux"
   "tex.log"
