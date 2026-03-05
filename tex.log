@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.2.20)  5 MAR 2026 22:49
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.2.20)  5 MAR 2026 23:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -683,23 +683,21 @@ Excluding 'comment' comment. (./tex.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [4
-
-] (./tex.aux)
+) [4] (./tex.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `tex.out' has not changed.
-(rerunfilecheck)             Checksum: 70121A5B5D171EDB089A7C501D024FA2;3445.
+(rerunfilecheck)             Checksum: 2728971A8B5369DA58DAEAF9646BB2B8;3854.
  ) 
 Here is how much of TeX's memory you used:
- 22612 strings out of 474878
- 420901 string characters out of 5762516
+ 22613 strings out of 474878
+ 420912 string characters out of 5762516
  1926627 words of memory out of 5000000
- 44263 multiletter control sequences out of 15000+600000
+ 44264 multiletter control sequences out of 15000+600000
  595754 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,6n,101p,585b,344s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,6n,101p,1048b,344s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on tex.xdv (4 pages, 20520 bytes).
+Output written on tex.xdv (4 pages, 23284 bytes).
